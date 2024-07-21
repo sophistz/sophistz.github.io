@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Master student at McGill University. Focusing on computer vision, diffusion models, and model-based optimization"
   location         : "Montreal, QC, Canada"
-  employer         : "James J. Clark"
+  employer         : # "James J. Clark"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h8CnRpIAAAAJ"
   email            : "youyuan.zhang@mail.mcgill.ca"
