@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Youyuan Zhang"
-description              : "A computer vision scientist, a competitive FPS player. "
+description              : "Youyuan's homepage"
 repository               : "sophistz/sophistz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Youyuan Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
-  employer         :
+  bio              : "Master student at McGill University. Focusing on computer vision, diffusion models, and model-based optimization"
+  location         : "Montreal, QC, Canada"
+  employer         : "James J. Clark"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=h8CnRpIAAAAJ"
+  email            : "youyuan.zhang@mail.mcgill.ca"
+  researchgate     : "https://www.researchgate.net/profile/Youyuan_Zhang5"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "sophistz"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "youyuan-zhang-503707193"
+  dblp             : "https://dblp.org/pid/216/3535.html"
+  orcid            : "https://orcid.org/0000-0001-6063-8733"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
